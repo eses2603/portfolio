@@ -60,7 +60,7 @@ The goal of this portfolio is to present my **frontend development journey and p
 
 If you would like to connect or collaborate:
 
-📧 Email: [emailiniz@example.com](mailto:erdemsoylu2603z@gmail.com)
+📧 Email: erdemsoylu2603@gmail.com
 💼 LinkedIn: https://linkedin.com/in/erdemsoylu
 
 ---

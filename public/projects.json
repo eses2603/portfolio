@@ -1,0 +1,98 @@
+[
+  {
+    "url": "https://github.com/eses2603/event_app",
+    "projectName": "Event App",
+    "category": "Event Management Dashboard",
+    "languages": ["React", "Recharts", "Axios", "React-icons"],
+    "image": "/images/dashboard.png"
+  },
+  {
+    "url": "https://github.com/eses2603/Chat_App",
+    "projectName": "React Chat Application",
+    "category": "Chat app",
+    "languages": [
+      "React",
+      "Vite",
+      "Firebase Authentication",
+      "Firebase Firestore"
+    ],
+    "image": "/images/chat.jpg"
+  },
+  {
+    "url": "https://github.com/eses2603/E-Commerce_Website",
+    "projectName": "E-Shopping",
+    "category": "E-Commerce",
+    "languages": ["React", "Redux", "Redux-Thunk", "Axios", "Bootstrap"],
+    "image": "/images/eshop.png"
+  },
+  {
+    "url": "https://github.com/eses2603/Toolkit_Job_App",
+    "projectName": "Toolkit Job App",
+    "category": "Job Tracker Portal",
+    "languages": ["React", "Redux", "Redux Toolkit", "ReactToastifyCSS"],
+    "image": "/images/job.png"
+  },
+  {
+    "url": "https://github.com/eses2603/Forum_app",
+    "projectName": "Forum App",
+    "category": "Forum Platform",
+    "languages": [
+      "React",
+      "Vite",
+      "Axios",
+      "TailwindCSS",
+      "ReactToastify",
+      "MVC Framework"
+    ],
+    "image": "/images/forum.png"
+  },
+  {
+    "url": "https://github.com/eses2603/Coin_Market_App",
+    "projectName": "Coin Market App",
+    "category": "Crypto Market Tracker",
+    "languages": [
+      "React",
+      "Vite",
+      "Bootstrap",
+      "Axios",
+      "Chart JS",
+      "MVC Framework"
+    ],
+    "image": "/images/coin.png"
+  },
+  {
+    "url": "https://github.com/eses2603/Radar_app",
+    "projectName": "Flight_Radar_App",
+    "category": "Flight Radar Tracker",
+    "languages": [
+      "React",
+      "Redux",
+      "Redux Toolkit",
+      "Redux Thunk",
+      "Leatfet",
+      "Bootstrap"
+    ],
+    "image": "/images/radar.png"
+  },
+  {
+    "url": "https://github.com/eses2603/Netflix_Clone",
+    "projectName": "Netflix_Clone",
+    "category": "Streaming Service",
+    "languages": ["React", "Redux Thunk", "Axios", "Milify", "TailwindCSS"],
+    "image": "/images/netflix.png"
+  },
+  {
+    "url": "https://github.com/eses2603/Note_Map-Website",
+    "projectName": "Note_Map_App",
+    "category": "Map Based Notes App",
+    "languages": ["Javascript", "HTML", "CSS", "Bootstrap"],
+    "image": "/images/map.png"
+  },
+  {
+    "url": "https://github.com/eses2603/Translate_app",
+    "projectName": "Translate_App",
+    "category": "LanMulti-Language Translator",
+    "languages": ["React", "Vite", "Redux Toolkit", "Axios", "TailwindCSS"],
+    "image": "/images/translate.png"
+  }
+]

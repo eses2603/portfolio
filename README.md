@@ -1,70 +1,68 @@
-🚀 Erdem Soylu — Developer Portfolio
+# 🚀 Personal Portfolio Website
 
-This is my personal developer portfolio website, built to showcase my projects, technical skills, and passion for creating modern web experiences.
+This is my **personal portfolio website**, built to showcase my **frontend development projects, technical skills, and user interface design abilities**.
 
-The website focuses on interactive UI, performance, and modern front-end technologies, providing visitors with a visually engaging way to explore my work.
+The website focuses on creating a **modern, interactive, and visually engaging user experience** while highlighting the projects I have developed using modern web technologies.
 
-✨ Features
+---
 
-🎮 Interactive 3D Character built with Three.js
+## 🌟 Features
 
-🖱 Mouse-follow animation for immersive interaction
+- 🎮 Interactive **3D character** experience
+- 👀 **Mouse-follow animation** for dynamic interaction
+- 📱 Fully **responsive design** (mobile, tablet, desktop)
+- ✨ Modern **UI/UX design**
+- ⚡ Smooth animations and transitions
+- 🌙 Clean and minimal interface
 
-📱 Fully responsive design for mobile, tablet, and desktop
+---
 
-🎨 Modern UI/UX design with smooth animations
+## 🛠 Tech Stack
 
-⚡ Optimized performance with modern tooling
+**Frontend**
 
-🛠 Tech Stack
-Frontend
+- React
+- TypeScript
+- Vite
 
-React
+**3D & Animations**
 
-TypeScript
+- Three.js
+- React Three Fiber
+- GSAP
 
-Vite
+**Styling**
 
-3D & Animation
+- Tailwind CSS
 
-Three.js
+---
 
-React Three Fiber
+## 🌐 Live Website
 
-GSAP
-
-Styling
-
-Tailwind CSS
-
-Responsive Design
-
-🌐 Live Website
-
-You can explore the live portfolio here:
+You can explore the live version of the portfolio here:
 
 👉 https://website-linkiniz.com
 
-📂 What You Can Find Here
+---
 
-The portfolio includes:
+## 📂 What You Can Find on This Website
 
-Selected React and JavaScript projects
+- My **featured frontend projects**
+- Technologies I work with
+- My **GitHub repositories**
+- Contact information
 
-Interactive UI demonstrations
+The goal of this portfolio is to present my **frontend development journey and practical experience through real projects.**
 
-Responsive web applications
+---
 
-GitHub repositories and project demos
+## 📫 Contact
 
-📫 Contact
+If you would like to connect or collaborate:
 
-If you'd like to collaborate or discuss opportunities, feel free to reach out.
-
-📧 Email: erdemsoylu2603z@gmail.com.com
-
+📧 Email: [emailiniz@example.com](mailto:erdemsoylu2603z@gmail.com)
 💼 LinkedIn: https://linkedin.com/in/erdemsoylu
 
-⭐ Purpose of This Project
+---
 
-This portfolio was created to present my work as a Front-End Developer and demonstrate my ability to build modern, interactive, and user-focused web applications.
+⭐ If you like this project, feel free to **star the repository**.

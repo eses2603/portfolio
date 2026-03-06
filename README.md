@@ -41,7 +41,7 @@ The website focuses on creating a **modern, interactive, and visually engaging u
 
 You can explore the live version of the portfolio here:
 
-👉 https://website-linkiniz.com
+👉 [https://www.erdemsoylu.com](https://portfolio-tau-two-taht6qj478.vercel.app/)
 
 ---
 

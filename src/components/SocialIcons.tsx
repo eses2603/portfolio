@@ -81,10 +81,9 @@ const SocialIcons = () => {
         </span>
       </div>
       <a className="resume-button" href="#">
-        <div onClick={() => window.open("/resume", "_blank")}>
+        <div>
           <HoverLinks text="RESUME" />
         </div>
-
         <span>
           <TbNotes />
         </span>

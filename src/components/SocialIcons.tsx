@@ -1,13 +1,12 @@
-import {
-  FaGithub,
-  FaInstagram,
-  FaLinkedinIn,
-  FaXTwitter
-} from "react-icons/fa6";
+import { FaGithub, FaLinkedinIn } from "react-icons/fa6";
 import "./styles/SocialIcons.css";
-import { TbNotes } from "react-icons/tb";
+{
+  /*import { TbNotes } from "react-icons/tb";*/
+}
 import { useEffect } from "react";
-import HoverLinks from "./HoverLinks";
+{
+  /*import HoverLinks from "./HoverLinks";*/
+}
 
 const SocialIcons = () => {
   useEffect(() => {
@@ -69,7 +68,7 @@ const SocialIcons = () => {
             <FaLinkedinIn />
           </a>
         </span>
-        <span>
+        {/* <span>
           <a href="http://x.com/" target="_blank">
             <FaXTwitter />
           </a>
@@ -78,16 +77,16 @@ const SocialIcons = () => {
           <a href="https://www.instagram.com/" target="_blank">
             <FaInstagram />
           </a>
-        </span>
+        </span>*/}
       </div>
-      <a className="resume-button" href="#">
+      {/* <a className="resume-button" href="#"> 
         <div>
           <HoverLinks text="RESUME" />
         </div>
         <span>
           <TbNotes />
         </span>
-      </a>
+      </a> */}
     </div>
   );
 };

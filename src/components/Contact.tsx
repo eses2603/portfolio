@@ -33,8 +33,8 @@ const Contact = () => {
             >
               Linkedin <MdArrowOutward />
             </a>
-            {/* <a
-              href="https://x.com/"
+            <a
+              href="https://www.x.com/"
               target="_blank"
               data-cursor="disable"
               className="contact-social"
@@ -42,13 +42,13 @@ const Contact = () => {
               Twitter <MdArrowOutward />
             </a>
             <a
-              href="http://instagram.com/"
+              href="https://www.instagram.com/"
               target="_blank"
               data-cursor="disable"
               className="contact-social"
             >
               Instagram <MdArrowOutward />
-            </a> */}
+            </a>
           </div>
           <div className="contact-box">
             <h5>
